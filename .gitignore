@@ -1,0 +1,16 @@
+# Dependencias (se instalan con npm install)
+node_modules/
+
+# Configuración local y variables de entorno (claves API)
+.env
+.env.local
+
+# Archivos de salida de video y logs
+rendered-videos/
+*.mp4
+*.log
+
+# Carpetas de configuración local / IDE
+.agents/
+.claude/
+.vscode/

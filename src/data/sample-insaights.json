@@ -1,0 +1,35 @@
+{
+  "theme": "insaights",
+  "date": "8 de junio, 2026",
+  "news": [
+    {
+      "title": "OpenAI lanza GPT-5 con razonamiento 3× más rápido",
+      "summary": "OpenAI presentó GPT-5, su modelo más avanzado, con capacidades de razonamiento multimodal que triplican la velocidad de GPT-4o. El lanzamiento redefine el estándar de los modelos de frontera.",
+      "bullets": [
+        "Procesamiento 3× más rápido que GPT-4o en benchmarks estándar",
+        "Disponible para usuarios Pro desde el 5 de junio de 2026",
+        "Impacto: presión directa sobre Gemini Ultra y Claude Opus"
+      ]
+    },
+    {
+      "title": "Google DeepMind: IA que diseña proteínas para tratar el cáncer",
+      "summary": "El equipo de AlphaFold desarrolló un modelo capaz de diseñar proteínas terapéuticas de novo en minutos. Tres laboratorios ya iniciaron ensayos clínicos basados en sus predicciones.",
+      "bullets": [
+        "Reducción del 80% en el tiempo de diseño molecular",
+        "Primeros ensayos clínicos en EE.UU. y Reino Unido, Q3 2026",
+        "Impacto: acelera el descubrimiento de fármacos oncológicos en 5 años"
+      ]
+    },
+    {
+      "title": "Nvidia anuncia chips Blackwell Ultra con 288 GB de memoria",
+      "summary": "Nvidia presentó la variante Ultra de su arquitectura Blackwell, dirigida a centros de datos de hiperescala. La memoria unificada de 288 GB elimina el cuello de botella en modelos de 1T parámetros.",
+      "bullets": [
+        "288 GB HBM3e, ancho de banda de 10 TB/s",
+        "Disponibilidad para socios cloud en Q4 2026",
+        "Impacto: habilita entrenar modelos 1T parámetros en un solo nodo"
+      ]
+    }
+  ],
+  "pattern": "Hoy vemos aceleración simultánea en hardware, modelos y aplicaciones médicas — la IA deja de ser una carrera de labs y se convierte en infraestructura crítica.",
+  "debate": "¿Debería la UE regular el acceso a chips como Blackwell, o eso frenaría su competitividad frente a EE.UU. y China?"
+}

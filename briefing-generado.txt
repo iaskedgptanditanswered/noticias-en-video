@@ -1,0 +1,22 @@
+**BRIEFING INSAIGHTS** | 24 de junio de 2026
+
+1️⃣ **ByteDance lanza Seedance 2.5, modelo de IA que genera videos de 30 segundos sin costura**
+* **Lo clave:** ByteDance presentó Seedance 2.5, capaz de crear clips de video de hasta 30 segundos sin necesidad de unir tomas y con capacidad para procesar hasta 50 entradas adicionales como imágenes o audio.
+* ✅ Genera videos de hasta 30 segundos sin post‑stitched, incluyendo cambios de escena y variaciones de tempo.
+* ✅ Soporta hasta 50 entradas simultáneas (imágenes, audio, etc.) útiles para escenas con múltiples personajes.
+* ✅ Seedance 2.0 ahora ofrece resolución 4K nativa con profundidad de color de 10 bit.
+
+2️⃣ **Micron y Anthropic sellan alianza estratégica para infraestructura de IA centrada en memoria y almacenamiento**
+* **Lo clave:** Micron y Anthropic acordaron colaborar en el diseño y optimización de subsistemas de memoria y almacenamiento para cargas de trabajo de IA, además de establecer un suministro multianual y desplegar internamente los modelos Claude.
+* ✅ Trabajo conjunto en memoria de alto ancho de banda (HBM), DRAM y SSD de data center para mejorar rendimiento y eficiencia energética.
+* ✅ Acuerdo de suministro multianual que respalda la hoja de ruta de cómputo de Anthropic para futuras generaciones de Claude.
+* ✅ Micron invierte en la ronda Serie H de Anthropic (65 000 millones de dólares) y despliega modelos Claude internamente para acelerar flujos de trabajo agente.
+
+3️⃣ **Meta detiene programa interno de seguimiento de empleados para entrenar IA tras preocupaciones de privacidad**
+* **Lo clave:** Meta suspendió su programa Model Capability Initiative de rastreo de uso de computadoras de empleados después de descubrir que algunos datos podían quedar accesibles dentro de la empresa y frente a la oposición de más de 2 000 trabajadores.
+* ✅ El programa MCI, activo solo dos meses, recogía clics y pulsaciones de teclado para entrenar modelos de IA.
+* ✅ Meta permitió a los trabajadores no ser rastreados hasta 30 min como medida de control de daño, percibida como insuficiente por el personal.
+* ✅ Más de 2 000 empleados firmaron una petición solicitando la cancelación del seguimiento, reflejando amplio descontento interno.
+
+💡 **EL PATRÓN DE HOY:** Las tres noticias muestran cómo el impulso de la IA generativa y empresarial choca con límites de tecnología, privacidad y necesidades de infraestructura.
+🗣️ **DEBATE:** ¿Cómo pueden las empresas equilibrar el avance de la IA con la protección de la privacidad de los empleados y la sostenibilidad de su infraestructura?
